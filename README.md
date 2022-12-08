@@ -2,6 +2,8 @@
 
 - https://www.clearpathrobotics.com/assets/guides/kinetic/jackal/simulation.html
 
+- https://github.com/jackal
+    
 # Jackal_Install
 
   - sudo apt-get install ros-melodic-jackal-simulator ros-melodic-jackal-desktop ros-melodic-jackal-navigation
