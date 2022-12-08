@@ -21,3 +21,7 @@
   - To visualize with the suggested rviz configuration launch:
   
     roslaunch jackal_viz view_robot.launch config:=navigation
+
+  - Launch Rviz
+    
+     roslaunch jackal_viz view_robot.launch
