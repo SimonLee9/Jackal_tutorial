@@ -10,4 +10,4 @@
   
   - 추천
   
-  roslaunch jackal_gazebo jackal_world.launch config:=front_laser
+    roslaunch jackal_gazebo jackal_world.launch config:=front_laser
