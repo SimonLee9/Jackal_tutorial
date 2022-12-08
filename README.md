@@ -1,4 +1,6 @@
-# Jackal_tutorial
+# Jackal_tutorial "SIMULATING JACKAL"
+
+- https://www.clearpathrobotics.com/assets/guides/kinetic/jackal/simulation.html
 
 # Jackal_Install
 
