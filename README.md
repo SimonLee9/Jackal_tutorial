@@ -4,10 +4,18 @@
 
   sudo apt-get install ros-melodic-jackal-simulator ros-melodic-jackal-desktop ros-melodic-jackal-navigation
 
-# Jackal_Navigating with Jackal (navigation without a map)
+# Jackal_Navigating with Jackal
 
   roslaunch jackal_gazebo jackal_world.launch
   
   - 추천
   
     roslaunch jackal_gazebo jackal_world.launch config:=front_laser
+
+# Jackal_Navigation without a map
+
+  - To launch the navigation demo, run:
+    roslaunch jackal_navigation odom_navigation_demo.launch
+    
+  - To visualize with the suggested rviz configuration launch:
+    roslaunch jackal_viz view_robot.launch config:=navigation
