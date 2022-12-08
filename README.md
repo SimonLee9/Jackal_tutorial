@@ -15,7 +15,9 @@
 # Jackal_Navigation without a map
 
   - To launch the navigation demo, run:
+  
     roslaunch jackal_navigation odom_navigation_demo.launch
     
   - To visualize with the suggested rviz configuration launch:
+  
     roslaunch jackal_viz view_robot.launch config:=navigation
